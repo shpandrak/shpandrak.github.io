@@ -1,10 +1,34 @@
-<html>
-<head><title>Hi</title></head>
-<body>
-<h2>Welcome to shpandrak.com</h2>
-<br/>
-<marquee><h1 style="color:red">השמר מהזיקה</h1></marquee>
-Welcome to shpandrak.com
-<img src="magic8ball.gif"/>
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shpandrak.com</title>
+    <script src="js/shpantext.js"></script>
+    <script>
+        function bodyOnLoad(){
+            ShpanText.printShpanText(
+                    document.getElementById('shpanType'),
+                    'Hello. You have awaken the Shpandrak');
+        }
+    </script>
+    <link href="css/main.css" rel="stylesheet"/>
+    <style>
+    </style>
+</head>
+<body onload="bodyOnLoad()">
+
+<div class="wrap">
+    <h1 style="text-align:center">Shpandrak.com</h1>
+
+    <div class="type-wrap">
+        <span id="shpanType" style="white-space:pre;">&nbsp;</span>
+        <span class="typed-cursor">|</span>
+    </div>
+
+    <div class="links">
+        <a href="http://www.shpandrak.blogspot.com">Travle Blog</a> | <a href="http://www.flickr.com/photos/shpandrak">On Flickr</a> | <a href="http://www.shpandrak.appspot.com">Soccer site</a>
+    </div>
+</div>
+
 </body>
 </html>
