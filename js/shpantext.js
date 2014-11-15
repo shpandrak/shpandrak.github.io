@@ -38,7 +38,7 @@ var ShpanText  = {
 
             var subStr = currString.substr(i);
             if (subStr.charAt(0) === '$' &&
-                subStr.charAt(1) === '{') {
+                subStr.charAt(1) === '[') {
 
                 switch (subStr.charAt(2)){
 
