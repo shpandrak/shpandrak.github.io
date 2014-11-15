@@ -4,6 +4,30 @@
 var ShpanText  = {
     delay : 40,
 
+    plugins :  {
+        pluginWait: function(htmlElement, text, i){
+            var skip = 5;  // skip at least 5
+            var subStr = text.substr(i);
+            subStr = /\d+/.exec(subStr)[0];
+            skip += subStr.length;
+            var charPause = parseInt(subStr);
+            window.setTimeout(function(){
+                ShpanText.nextCallback(htmlElement, text, i + skip);
+            }, charPause);
+        },
+
+        pluginDelete: function(htmlElement, text, i) {
+            var subStr = text.substr(i);
+            var skip = 5;  // skip at least 5
+            subStr = /\d+/.exec(subStr)[0];
+            skip += subStr.length;
+            var charactersToRemove = parseInt(subStr);
+            ShpanText.deleteCharactersAndContinue(charactersToRemove, htmlElement, text, i + skip);
+
+        }
+
+    },
+
     printShpanText : function (htmlElement, text) {
         this.nextCallback(htmlElement, text, 0);
     },
@@ -35,40 +59,30 @@ var ShpanText  = {
             const nextChar = text.charAt(i);
 
             var currString = text;
-
             var subStr = currString.substr(i);
             if (subStr.charAt(0) === '$' &&
                 subStr.charAt(1) === '[') {
+
+                // todo: test valid markup
+                //if(/^\^\d+/.test(subStr)) {
 
                 switch (subStr.charAt(2)){
 
                     // Wait
                     case 'w':
-                        var skip = 5;  // skip at least 5
-                        var charPause = 0;
-                        subStr = /\d+/.exec(subStr)[0];
-                        skip += subStr.length;
-                        charPause = parseInt(subStr);
-                        window.setTimeout(function(){
-                            ShpanText.nextCallback(htmlElement, text, i + skip);
-                        }, charPause);
+                        ShpanText.plugins.pluginWait(htmlElement, text, i);
                         return;
 
                     // Delete
                     case 'd':
-                        var skip = 5;  // skip at least 5
-                        var charactersToRemove = 0;
-                        subStr = /\d+/.exec(subStr)[0];
-                        skip += subStr.length;
-                        charactersToRemove = parseInt(subStr);
-                        ShpanText.deleteCharactersAndContinue(charactersToRemove, htmlElement, text, i + skip);
+                        ShpanText.plugins.pluginDelete(htmlElement, text, i);
+                        return;
+
+                    // External Plugin
+                    case 'e':
+                        // todo:
                         return;
                 }
-
-                // todo: test valid markup
-                //if(/^\^\d+/.test(subStr)) {
-
-
 
             }
 
