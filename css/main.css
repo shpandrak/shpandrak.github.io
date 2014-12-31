@@ -15,9 +15,9 @@ a{
 	text-decoration: none;
 	color:#666;
 }
-	a:hover{
-		color:#999;
-	}
+a:hover{
+	color:#999;
+}
 p{
 	line-height: 2em;
 	margin:0 0 20px;
@@ -39,7 +39,7 @@ p{
 
 .links{
 	margin:20px 0;
-	font-size: 0.75em;
+	font-size: 1.0em;
 	text-align: center;
 }
 
@@ -53,10 +53,10 @@ p{
 	-o-animation: blink 0.7s infinite;
 	animation: blink 0.7s infinite;
 }
-@-keyframes blink{
-0% { opacity:1; }
-50% { opacity:0; }
-100% { opacity:1; }
+@keyframes blink{
+	0% { opacity:1; }
+	50% { opacity:0; }
+	100% { opacity:1; }
 }
 @-webkit-keyframes blink{
 	0% { opacity:1; }
