@@ -1,9 +1,14 @@
 ---
-title: "part1 ג׳אספר"
+title: "ג׳אספר חלק א׳"
 date: 2025-08-06T20:00:00Z
 tags: ["Canada","Jasper"]
 author: "Shpandrak"
 weight: 9
+cover:
+  image: "glacier2.jpg"
+  hiddenInSingle: true
+  relative: true
+
 ---
 
 את הבוקר פתחנו באתר הקמפינג ביוהו.

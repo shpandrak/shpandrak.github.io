@@ -4,6 +4,11 @@ date: 2025-08-08T20:00:00Z
 tags: ["Canada","Jasper"]
 author: "Shpandrak"
 weight: 12
+cover:
+  image: "maligne6.jpg"
+  hiddenInSingle: true
+  relative: true
+
 ---
 
 היום הוא הפרק האחרון בשמורת ג׳אספר ובהרי הרוקי בכלל, לקראת פתיחת הפרק הקייצי יותר של הטיול והמסע דרומה. את חגיגות הפרידה נפתח בצורה אופיינית עם השקמה וטיפוס על ״הר רוקי״ שורץ דובים. נסענו מזרחה לכיוון אגם מלין (Maligne lake)
