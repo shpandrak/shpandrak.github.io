@@ -1,0 +1,31 @@
+{{ $original := .Page.Resources.GetMatch .Destination }}
+
+{{ if $original }}
+{{/*
+Resize ALL images to a consistent maximum width of 800px.
+This is the standard for creating a clean, column-like layout.
+Portrait images will be 800px wide and tall.
+Landscape images will be 800px wide and short.
+Hugo's ".Resize" function automatically handles the EXIF rotation.
+*/}}
+{{ $thumb := $original.Resize "800x" }}
+
+<figure class="render-hook-figure">
+    <a href="{{ $original.Permalink }}" class="gallery-item" data-caption="{{ .Title | default .Text }}">
+        <img
+                src="{{ $thumb.Permalink }}"
+                alt="{{ .Text }}"
+                width="{{ $thumb.Width }}"
+                height="{{ $thumb.Height }}">
+    </a>
+
+    {{ if .Title }}
+    <figcaption>{{ .Title | markdownify }}</figcaption>
+    {{ end }}
+</figure>
+{{ else }}
+{{/* If the image is not local (e.g., from another website), display it normally */}}
+<p>
+    <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
+</p>
+{{ end }}

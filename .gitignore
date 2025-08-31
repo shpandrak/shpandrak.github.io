@@ -1,2 +1,17 @@
-.idea
+# Mac files
 .DS_Store
+.DS_Store?
+
+# IntelliJ
+.idea/
+*.iml
+
+# Hugo build output
+public/
+resources/_gen/
+
+# Hugo cache
+.hugo_build.lock
+
+# Editor files
+.vscode/

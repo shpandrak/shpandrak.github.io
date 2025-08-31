@@ -1,0 +1,20 @@
+baseURL: 'https://shpandrak.github.io/'
+
+#languageCode: en-us
+title: ShpanBlog
+theme: ["PaperMod"]
+languageCode: "he"
+defaultContentLanguage: "he"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+# Add these lines to enable comments globally
+params:
+  comments: true
+taxonomies:
+  tag: tags
+  category: categories
+  series: series

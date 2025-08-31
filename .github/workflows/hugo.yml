@@ -1,0 +1,47 @@
+# .github/workflows/deploy.yml
+name: Deploy Hugo site to shpandrak.github.io
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A single job called "deploy" that does everything
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Checks out your shpanblog repository
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive  # Fetches your theme
+
+      # Step 2: Sets up the Hugo environment
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      # Step 3: Builds the site using the baseURL from your hugo.toml
+      - name: Build with Hugo
+        run: hugo --minify
+
+      # Step 4: Deploys the built site to your shpandrak.github.io repo
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          # This is the secret token you created
+          personal_token: ${{ secrets.ACTION_TOKEN }}
+          # The repository you want to push to
+          external_repository: shpandrak/shpandrak.github.io
+          # The directory to push
+          publish_dir: ./public
+          # The branch to push to (for User Pages, this must be main or master)
+          publish_branch: main
+          # A commit message for the deployment
+          commit_message: ${{ github.event.head_commit.message }}

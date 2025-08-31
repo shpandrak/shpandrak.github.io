@@ -1,0 +1,41 @@
+
+
+/*
+ * Fix for image distortion in our custom render hook.
+ * This targets only the images inside the figure we created.
+ */
+figure.render-hook-figure img {
+    width: 100%;      /* Make the image fill its container's width */
+    height: auto;       /* CRITICAL: Calculate height automatically to maintain aspect ratio */
+    object-fit: contain; /* Ensures the whole image is visible without being cropped */
+    display: block;     /* A good practice for images inside links */
+    margin: auto;       /* Center the image if the container is wider */
+}
+
+/*
+ * Custom styling for our image captions (figcaptions).
+ */
+figure.render-hook-figure figcaption {
+    font-style: italic;
+    text-align: center;
+    color: var(--secondary); /* This correctly uses your PaperMod theme's secondary color */
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 8px; /* Adds a little breathing room above the caption */
+}
+
+
+.post-single {
+    direction: rtl !important;
+    text-align: right !important;
+}
+
+.post-content {
+    direction: rtl !important;
+    text-align: right !important;
+}
+
+.post-content p {
+    direction: rtl !important;
+    text-align: right !important;
+}
