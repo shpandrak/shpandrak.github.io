@@ -9,6 +9,9 @@ cascade:
     ShowBreadCrumbs: true
     ShowShareButtons: true
     series: ["Canada2025"]
+    build:
+      publishResources: false
+
 cover:
   image: "cover.jpg"
   hiddenInSingle: false

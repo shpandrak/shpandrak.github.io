@@ -11,7 +11,8 @@ Hugo's ".Resize" function automatically handles the EXIF rotation.
 {{ $thumb := $original.Resize "800x" }}
 
 <figure class="render-hook-figure">
-    <a href="{{ $original.Permalink }}" class="gallery-item" data-caption="{{ .Title | default .Text }}">
+
+    <a href="https://cdn.jsdelivr.net/gh/shpandrak/shpandrak.github.io@main/content/posts/canada2025/1-waterton/{{.Destination}}" class="gallery-item" data-caption="{{ .Title | default .Text }}">
         <img
                 src="{{ $thumb.Permalink }}"
                 alt="{{ .Text }}"
