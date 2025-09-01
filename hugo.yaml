@@ -18,3 +18,7 @@ taxonomies:
   tag: tags
   category: categories
   series: series
+
+services:
+  googleAnalytics:
+    id: G-W3QGVVYBR4
