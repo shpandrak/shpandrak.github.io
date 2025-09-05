@@ -15,7 +15,6 @@ cover:
 
 ![](IMG_1551-HEIC.jpg "יוצאים לדרך")
 
-[![](https://blogger.googleusercontent.com/img/a/AVvXsEhVaJ8Wr5PlLFVf4IAdiaIU1jHjU9OQhnTX2r4nlRZa-H0zyAYYo67-QAGzvBFVNWgifoJ977EsDAuChYNHPA_iv5WG3KZUAYFpRFbfFMg10zZ2Ze5puE88fBbE3BlZeXqNsqHzVk6-z0IrvogArGZCdMn29U0yCjdNIc3YOg_xtHi18LPk8T7T7mMDsQ=w640-h270)](https://blogger.googleusercontent.com/img/a/AVvXsEhVaJ8Wr5PlLFVf4IAdiaIU1jHjU9OQhnTX2r4nlRZa-H0zyAYYo67-QAGzvBFVNWgifoJ977EsDAuChYNHPA_iv5WG3KZUAYFpRFbfFMg10zZ2Ze5puE88fBbE3BlZeXqNsqHzVk6-z0IrvogArGZCdMn29U0yCjdNIc3YOg_xtHi18LPk8T7T7mMDsQ)
 ![](vfsts.png "סטטיסטיקת מסלול")
 
 לקחנו את האוטובוס (yarts) לתוך השמורה ומיד התחלנו בהליכה. על אף השעה המוקדמת, בחלק הראשון של ההליכה עד לתצפית על הVernal Falls הלכו בשביל לא מעט מטיילים, אך ברגע שהתחלנו בטיפוס לכיוון המפל עצמו, היינו די לבדנו עם הנופים המרהיבים. הילדים הפגינו כושר טיולים מרשים ו״תפרנו״ את הדרך למפל די בקלות. הנופים הדרמאטיים ביוסמיטי מצדיקים כל מאמץ. בחלק האחרון של הטיפוס נגלה בפנינו המפל המרהיב. על אף שאנו מטיילום ב״עונה היבשה״ והזרימה במפל לא מאד חזקה, הגובה עם כל הצוקים מסביב יוצר תחושה עוצמתית.

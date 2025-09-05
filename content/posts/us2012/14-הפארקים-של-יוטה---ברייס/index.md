@@ -23,13 +23,9 @@ cover:
 
 ![](IMG_0044-HEIC.jpg "חפירות על Hoodoos בVisitor center")
 
-![](IMG_0031-HEIC.jpg "")
+![](IMG_0031-HEIC.jpg "בshuttle")
 
-בshuttle
-
-[![](https://blogger.googleusercontent.com/img/a/AVvXsEiWhDv1kne8nj3mc3sVq_MhpWb3tE8mXVZO3ItrzadWccMLF4igYusSF0l3jdvqsc7oI7hubTYD6Lx_NWvjn3T4vaDn2jYzlnYarAm6UwgJusnJ_EcUZe3nqP1XGG-G3UXbCbfKhAuHkr3utJQL1R1g_GFez2KbszmWitdS_0TdktKf9ZwGMLbmraS_Ow=w640-h434)](https://blogger.googleusercontent.com/img/a/AVvXsEiWhDv1kne8nj3mc3sVq_MhpWb3tE8mXVZO3ItrzadWccMLF4igYusSF0l3jdvqsc7oI7hubTYD6Lx_NWvjn3T4vaDn2jYzlnYarAm6UwgJusnJ_EcUZe3nqP1XGG-G3UXbCbfKhAuHkr3utJQL1R1g_GFez2KbszmWitdS_0TdktKf9ZwGMLbmraS_Ow)
-
-*תאור וסטטיסטיקות מסלול*
+![](qgsts.png "תאור וסטטיסטיקות מסלול")
 
 לנו ב[Rubby's Inn RV Park](https://www.rubysinn.com/) שממוקם ממש בכניסה לפארק. הRubby's משתרע על פני שטח של עיר ומכיל מלון, RV Park, מסעדות, חנויות ועוד שלל פעילויות. החניון בסדר גמור, ויזכר, אם בכלל, רק בזכות תקרית מטופשת בה עלמה שרלוט נכנסה בהיסטריה לקראוון וצעקה בבהלה: ״אישה מדברת אנגלית - מדברת אנגלית!״.  לא רק שקיום אותה אישה זוקק לכדי תכונה בודדת של היותה ״מדברת אנגלית״ - גם הוחלט לעשות דרמה משום שהיא נצפתה מממשת את פוטנציאל התכונה. מסתבר שה״אישה מדברת״ אנגלית היא גם ״אישה שלא אוהבת אוכל תפל״ - סיפקנו לה את המלח שביקשה והמשכנו בחיינו - אך מאותו הרגע - נחמד מידי פעם לצעוק לעלמה בהיסטריה: ״אהה אישה מדברת אנגלית - מדברת אנגלית״! 😆
 
