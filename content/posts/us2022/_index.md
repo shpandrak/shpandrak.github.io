@@ -1,6 +1,6 @@
 ---
-title: "ארה״ב 2012"
-date: 2012-07-26T05:34:00Z
+title: "ארה״ב 2022"
+date: 2022-07-26T05:34:00Z
 tags: ["Canada"]
 author: "Shpandrak"
 type: "series"
@@ -9,7 +9,7 @@ cascade:
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowShareButtons: true
-    series: ["US2012"]
+    series: ["US2022"]
     build:
       publishResources: false
 
