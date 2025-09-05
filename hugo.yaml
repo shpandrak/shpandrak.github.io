@@ -22,3 +22,12 @@ taxonomies:
 services:
   googleAnalytics:
     id: G-W3QGVVYBR4
+
+menu:
+  main:
+    - identifier: archive
+      name: ארכיון
+      url: /archives/
+    - identifier: trips
+      name: טיולים
+      url: /posts/
