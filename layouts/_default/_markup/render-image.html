@@ -26,7 +26,12 @@ Hugo's ".Resize" function automatically handles the EXIF rotation.
 </figure>
 {{ else }}
 {{/* If the image is not local (e.g., from another website), display it normally */}}
-<p>
+<figure class="render-hook-figure">
+    {{- if $original -}}
+    <img src="{{ $original.Permalink }}" alt="{{ .Text }}">
+    {{- else -}}
+
     <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
-</p>
+    {{- end -}}
+</figure>
 {{ end }}
