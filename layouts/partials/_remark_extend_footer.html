@@ -1,0 +1,33 @@
+<script>
+    // Function to sync Comentario's theme with PaperMod's theme
+    function syncRemarkTheme() {
+        if (window.REMARK42) {
+            // Check if PaperMod's dark mode is active by looking for the 'dark' class on the body
+            const isDark = document.body.classList.contains('dark');
+            const theme = isDark ? 'dark' : 'light';
+
+
+            window.REMARK42.changeTheme(theme)
+        }
+    }
+
+    // Run the function once on initial page load
+    document.addEventListener('DOMContentLoaded', function() {
+        // A small delay might be needed to ensure the Comentario component is ready
+        setTimeout(syncRemarkTheme, 200);
+    });
+
+    // Use a MutationObserver to watch for changes in the <body> class attribute
+    const observer = new MutationObserver(function(mutations) {
+        mutations.forEach(function(mutation) {
+            if (mutation.attributeName === 'class') {
+                syncRemarkTheme();
+            }
+        });
+    });
+
+    // Start observing the body for attribute changes
+    observer.observe(document.body, {
+        attributes: true
+    });
+</script>

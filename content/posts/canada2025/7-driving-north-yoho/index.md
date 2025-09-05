@@ -3,7 +3,7 @@ title: "נוסעים צפונה - יוהו"
 date: 2025-08-05T20:00:00Z
 tags: ["Canada","Yoho"]
 author: "Shpandrak"
-weight: 7
+#weight: 7
 cover:
   image: "emeraldFamily.jpg"
   hiddenInSingle: true

@@ -1,6 +1,6 @@
 {{ $original := .Page.Resources.GetMatch .Destination }}
 
-{{ if $original }}
+{{ if and $original (ne (path.Ext .Destination) ".gif") }}
 {{/*
 Resize ALL images to a consistent maximum width of 800px.
 This is the standard for creating a clean, column-like layout.
@@ -26,7 +26,16 @@ Hugo's ".Resize" function automatically handles the EXIF rotation.
 </figure>
 {{ else }}
 {{/* If the image is not local (e.g., from another website), display it normally */}}
-<p>
+<figure class="render-hook-figure">
+    {{- if $original -}}
+    <img src="{{ $original.Permalink }}" alt="{{ .Text }}">
+    {{ if .Title }}
+    <figcaption>{{ .Title | markdownify }}</figcaption>
+    {{ end }}
+
+    {{- else -}}
+
     <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
-</p>
+    {{- end -}}
+</figure>
 {{ end }}

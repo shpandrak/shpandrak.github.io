@@ -24,7 +24,6 @@ figure.render-hook-figure figcaption {
     margin-top: 8px; /* Adds a little breathing room above the caption */
 }
 
-
 .post-single {
     direction: rtl !important;
     text-align: right !important;

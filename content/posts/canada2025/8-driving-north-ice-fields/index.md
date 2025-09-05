@@ -3,7 +3,7 @@ title: "המסע צפונה - דרך שדות הקרח"
 date: 2025-08-06T20:00:00Z
 tags: ["Canada","Icefields Parkway"]
 author: "Shpandrak"
-weight: 8
+#weight: 8
 cover:
   image: "athabasca10-ice.jpg"
   hiddenInSingle: true

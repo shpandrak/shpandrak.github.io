@@ -3,7 +3,7 @@ title: "ג׳אספר חלק ב׳"
 date: 2025-08-07T20:00:00Z
 tags: ["Canada","Jasper"]
 author: "Shpandrak"
-weight: 10
+#weight: 10
 cover:
   image: "boat4.jpg"
   hiddenInSingle: true

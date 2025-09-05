@@ -3,7 +3,7 @@ title: "יום המזל שלנו בגליישר - קרחון גרינל"
 date: 2025-07-29T20:00:00Z
 tags: ["USA"]
 author: "Shpandrak"
-weight: 3
+#weight: 3
 cover:
   image: "yaelPhotoLake.jpg"
   hiddenInSingle: true

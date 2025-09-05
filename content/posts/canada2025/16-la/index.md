@@ -3,7 +3,7 @@ title: "במקום השמח בעולם"
 date: 2025-08-24T20:00:00Z
 tags: ["Canada"]
 author: "Shpandrak"
-weight: 16
+#weight: 16
 cover:
   image: "disney14.jpg"
   hiddenInSingle: true

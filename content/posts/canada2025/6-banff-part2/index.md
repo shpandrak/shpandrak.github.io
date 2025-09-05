@@ -3,7 +3,7 @@ title: "באנף - חלק ב׳"
 date: 2025-08-02T20:00:00Z
 tags: ["Canada","Banff"]
 author: "Shpandrak"
-weight: 6
+#weight: 6
 cover:
   image: "bearHug.jpg"
   hiddenInSingle: true

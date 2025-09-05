@@ -1,0 +1,35 @@
+<script>
+
+    // Function to get the theme from PaperMod's localStorage
+    const getTheme = () => {
+        const theme = localStorage.getItem('pref-theme');
+        // Remark42 supports 'light' and 'dark'
+        if (theme === 'dark' || theme === 'light') {
+            return theme;
+        }
+        // Default to light if preference is not set or invalid
+        return 'light';
+    };
+
+
+    var remark_config = {
+        host: 'http://localhost:8080',
+        site_id: 'remark',
+        theme: getTheme(),  // Use the function to set the theme
+        components: ['embed'],
+
+    }
+
+</script>
+
+<script>
+
+    !function (e, n) {
+    for (var o = 0; o < e.length; o++) {
+        var r = n.createElement("script"), c = ".js", d = n.head || n.body;
+        "noModule" in r ? (r.type = "module", c = ".mjs") : r.async = !0, r.defer = !0, r.src = remark_config.host + "/web/" + e[o] + c, d.appendChild(r)
+    }
+}(remark_config.components || ["embed"], document);</script>
+
+
+<div id="remark42"></div>
