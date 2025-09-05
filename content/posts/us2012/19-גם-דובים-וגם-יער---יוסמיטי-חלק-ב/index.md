@@ -3,6 +3,10 @@ title: "גם דובים וגם יער - יוסמיטי חלק ב׳"
 date: 2022-08-18 05:36:00.087 +0000 UTC
 updated: 2022-09-23T11:40:01.043Z
 author: "Shpandrak"
+cover:
+  image: "IMG_1253-HEIC.jpg"
+  hiddenInSingle: true
+  relative: true
 ---
 
 היום התמקדנו בYosemite Valley. העמק של יוסמיטי מתוייר יותר משכנו Tioga pass בו טיילנו אתמול, אך לפחות שנת הלימודים בקליפורניה החלה כך שבטוח יהיו פחות מטיילים אמריקאים. בכל מקרה, לא השארנו מקום למזל והשקמנו קום למסלול המאתגר האחרון במסע שלנו. אחרי עוד יומיים ביוסמיטי יסתיים ״פרק הטבע״ שלנו במסע(!) נחזיר את הקראוון ונקנח את המסע בטעימה עירונית קצרה.
@@ -11,9 +15,8 @@ author: "Shpandrak"
 
 ![](IMG_1551-HEIC.jpg "יוצאים לדרך")
 
-<a href="https://blogger.googleusercontent.com/img/a/AVvXsEhVaJ8Wr5PlLFVf4IAdiaIU1jHjU9OQhnTX2r4nlRZa-H0zyAYYo67-QAGzvBFVNWgifoJ977EsDAuChYNHPA_iv5WG3KZUAYFpRFbfFMg10zZ2Ze5puE88fBbE3BlZeXqNsqHzVk6-z0IrvogArGZCdMn29U0yCjdNIc3YOg_xtHi18LPk8T7T7mMDsQ" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img data-original-height="743" data-original-width="1756" height="270" src="https://blogger.googleusercontent.com/img/a/AVvXsEhVaJ8Wr5PlLFVf4IAdiaIU1jHjU9OQhnTX2r4nlRZa-H0zyAYYo67-QAGzvBFVNWgifoJ977EsDAuChYNHPA_iv5WG3KZUAYFpRFbfFMg10zZ2Ze5puE88fBbE3BlZeXqNsqHzVk6-z0IrvogArGZCdMn29U0yCjdNIc3YOg_xtHi18LPk8T7T7mMDsQ=w640-h270" width="640"/></a>
-
-סטטיסטיקת מסלול
+[![](https://blogger.googleusercontent.com/img/a/AVvXsEhVaJ8Wr5PlLFVf4IAdiaIU1jHjU9OQhnTX2r4nlRZa-H0zyAYYo67-QAGzvBFVNWgifoJ977EsDAuChYNHPA_iv5WG3KZUAYFpRFbfFMg10zZ2Ze5puE88fBbE3BlZeXqNsqHzVk6-z0IrvogArGZCdMn29U0yCjdNIc3YOg_xtHi18LPk8T7T7mMDsQ=w640-h270)](https://blogger.googleusercontent.com/img/a/AVvXsEhVaJ8Wr5PlLFVf4IAdiaIU1jHjU9OQhnTX2r4nlRZa-H0zyAYYo67-QAGzvBFVNWgifoJ977EsDAuChYNHPA_iv5WG3KZUAYFpRFbfFMg10zZ2Ze5puE88fBbE3BlZeXqNsqHzVk6-z0IrvogArGZCdMn29U0yCjdNIc3YOg_xtHi18LPk8T7T7mMDsQ)
+![](vfsts.png "סטטיסטיקת מסלול")
 
 לקחנו את האוטובוס (yarts) לתוך השמורה ומיד התחלנו בהליכה. על אף השעה המוקדמת, בחלק הראשון של ההליכה עד לתצפית על הVernal Falls הלכו בשביל לא מעט מטיילים, אך ברגע שהתחלנו בטיפוס לכיוון המפל עצמו, היינו די לבדנו עם הנופים המרהיבים. הילדים הפגינו כושר טיולים מרשים ו״תפרנו״ את הדרך למפל די בקלות. הנופים הדרמאטיים ביוסמיטי מצדיקים כל מאמץ. בחלק האחרון של הטיפוס נגלה בפנינו המפל המרהיב. על אף שאנו מטיילום ב״עונה היבשה״ והזרימה במפל לא מאד חזקה, הגובה עם כל הצוקים מסביב יוצר תחושה עוצמתית.
 
@@ -27,8 +30,7 @@ author: "Shpandrak"
 
 ![](IMG_1247-HEIC.jpg "הטיפוס לכיוון ראש המפל")
 
-![](IMG_1253-HEIC.jpg "מפל Vernal - משקיף עמק Yosemite")
-
+![](IMG_1253-HEIC.jpg "מפל Vernal - משקיף עמק Yosemite")  
 ![](IMG_1611-HEIC.jpg "מטפסים רבי מעללים ״כבשו״ את המפל")
 
 משם המשכנו לטפס לכיוון Clack point. הטיפוס איפשר גישה לנקודות תצפית נוספות ללא מעקה על סף התהום. בתצפית אחת ממש לא הצלחתי להתקרב, הרגשתי איך הרגליים הופכות לג׳לי. ללא ספק אחד המסלולים היפים של הטיול. משם המשכנו לכיוון ה״כפר האינדיאני״ שם הטמינו עבורינו משפחת נעמן אוצר קסום. הלכנו וחפרנו לפי מפת האוצר שקיבלו, אך שודדי אוצרות אינדיאנים ארורים בזזו את האוצר!
@@ -49,11 +51,11 @@ author: "Shpandrak"
 
 ![](IMG_1361-HEIC.jpg "עוד ארוחת ערב אמריקאית mac and cheese")
 
-למחרת נסענו לכיוון Mariposa Grove כדי לחזות בפלאי הטבע הם כמובן הסקויה המפורסמים. למרות שכבר ביקרנו בחלק הזה של השמורה <a href="https://shpandrak.blogspot.com/2012/04/blog-post.html">בטיול הגדול שלנו מסביב לעולם</a>, חשבנו שהילדים יתלהבו מהעצים, ואכן כך היה. עצרנו בכל השלטים ולמדנו על עצי הסקויה הפלאיים. העצים בני מאות השנים היו כאן לפנינו וימשיכו להתקיים גם אחרינו - אם רק נניח להם. בנסיון להגן על השמורה, במאה הקודמת האמריקאים הקפידו לכבות את כל השריפות לפני שהן התחילו - כדי לשמור על העצים העצומים. עם השנים התברר שהעצים חייבים שריפות פעם בכמה שנים כדי להתקיים! הזרעים שלהם נפתחים בטמפרטורות מאד גבוהות, ורק ככה העצים יכולים להתרבות. בנוסף, השריפות משמידות את כל ה״מתחרים״ של העצים, כך שעמידותם באש מאפשרת להם לגדול לבדם ולפתח בעלות על הנוטריינטים שבקרקע. 
+למחרת נסענו לכיוון Mariposa Grove כדי לחזות בפלאי הטבע הם כמובן הסקויה המפורסמים. למרות שכבר ביקרנו בחלק הזה של השמורה [בטיול הגדול שלנו מסביב לעולם](https://shpandrak.blogspot.com/2012/04/blog-post.html), חשבנו שהילדים יתלהבו מהעצים, ואכן כך היה. עצרנו בכל השלטים ולמדנו על עצי הסקויה הפלאיים. העצים בני מאות השנים היו כאן לפנינו וימשיכו להתקיים גם אחרינו - אם רק נניח להם. בנסיון להגן על השמורה, במאה הקודמת האמריקאים הקפידו לכבות את כל השריפות לפני שהן התחילו - כדי לשמור על העצים העצומים. עם השנים התברר שהעצים חייבים שריפות פעם בכמה שנים כדי להתקיים! הזרעים שלהם נפתחים בטמפרטורות מאד גבוהות, ורק ככה העצים יכולים להתרבות. בנוסף, השריפות משמידות את כל ה״מתחרים״ של העצים, כך שעמידותם באש מאפשרת להם לגדול לבדם ולפתח בעלות על הנוטריינטים שבקרקע. 
 
 ![](IMG_1365-HEIC.jpg "נוף הבוקר על עמק יוסמיטי")
 
-![](dsc_0909_7992229102_o-COLLAGE.jpg "קצת נוסטלגיה...")
+![](dsc\_0909\_7992229102\_o-COLLAGE.jpg "קצת נוסטלגיה...")
 
 ![](IMG_1692-HEIC.jpg "")
 
@@ -64,8 +66,7 @@ author: "Shpandrak"
 בדרך החוצה מהשמורה, דווקא כשכבר הפסקנו לחפש, סוף סוף הגיע הזמן שלנו לראות דוב! באמצע הכביש עצר רכב מולנו. כשהאטנו, לחש לנו מטייל צרפתי במבטא כבד - יש פה דוב! מיד עצרנו ויצאנו לחפש. הדוב השחור הביט בנו, לא התרשם במיוחד וחזר לתוך מעבה היער. התחלנו לנסוע לקול צפצופי הרכבים מאחורינו מרוצים למדי
 
 {{< youtube zpjgEFH-n1o >}}
-
-הדב ״שלנו״
+*הדב ״שלנו״*
 
 אחרי המפגש הדובי המרגש עצרנו פעם אחרונה בטבע להפרד מיוסמיטי, לאכול צהרים ולהשתולל קצת במים. פרק הטבע שלנו בטיול תם. מכאן נמשיך לכמה ימים בקליפורניה ומשם חזרה לישראל. יוסמיטי בהחלט נותן תחרות טובה לפארקים האחרים בתור הפארק יפה ביותר. להתראות יוסמיטי - נפגש בפעם הבאה...
 
@@ -75,9 +76,9 @@ author: "Shpandrak"
 
 ![](IMG_1475-HEIC.jpg "להתראות יוסמיטי")
 
-![]( "אז ועכשיו...")
+![](then.jpg "אז ועכשיו...")
 
-הלילה לנו ב <a href="https://yosemitepinesrv.com/" style="text-align: left; text-decoration-line: none;"><span style="color: #1155cc; font-family: Arial; font-size: 11pt; font-variant-east-asian: normal; font-variant-numeric: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;">Yoemite Pines RV Resort</span></a> לקראת נסיעה מערבה למחרת בבוקר. המקום היה יפה ומרווח והיתה בו  פינת חי שהילדים מאד אהבו. במשך שעה ארוכה עשו הילדים פרצופים ״מי צוחק ראשון״ עם למה מדובללת. 
+הלילה לנו ב[Yoemite Pines RV Resort](https://yosemitepinesrv.com/) לקראת נסיעה מערבה למחרת בבוקר. המקום היה יפה ומרווח והיתה בו  פינת חי שהילדים מאד אהבו. במשך שעה ארוכה עשו הילדים פרצופים ״מי צוחק ראשון״ עם למה מדובללת. 
 
 ![](IMG_1793-HEIC.jpg "תחרות מבטים")
 
