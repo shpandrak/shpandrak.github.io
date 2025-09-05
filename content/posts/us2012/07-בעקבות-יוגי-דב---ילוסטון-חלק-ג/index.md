@@ -21,35 +21,32 @@ cover:
 
 ![](IMG_7661-HEIC.jpg "הופ - מצב לילה...")
 
-![](IMG_7867-HEIC.jpg "")ריח, שריקה וקרקושים של בוקר בקראוון...
+![](IMG_7867-HEIC.jpg "")
 
-היום בחרנו מסלול קצת ארוך יותר. הלכנו במסלול הכולל את הGrand Prismatic overlook וממשיך עד ל Fairy Falls. (פחות או יותר נאמן למסלול <a href="https://www.alltrails.com/explore/recording/grand-prismatic-overlook-and-fairy-falls-8452a95?u=m" target="_blank">הזה</a>). כשיצאנו לדרך היה קפוא בחוץ, הבטחנו לילדים שכשיחזרו לקראוון הם יהיו ״עם הלשון בחוץ״ - ואכן כך היה. הילדים הלכו 10 ק״מ בקצב של מטיילים מקצוענים. המסלול עובר בGrand Prismatic Overlook - תצפית על הבריכה הגאותרמית הצבעונית המפורסמת ביותר בילוסטון. את צבעיה המרהיבים מקבלת הבריכה ממרבדים מיקרוביאליים בטמפרטורות והרכבי חומר שונים שלא אפרט גם כי אני לא בטוח שהבנתי עד הסוף - וגם כי אתם יכולים לקרוא על זה בעצמכם...
+ריח, שריקה וקרקושים של בוקר בקראוון...
 
-![](IMG_7434 Copy.JPG "")Grand Prismatic Spring - כפי שנראית מה Grand Prismatic Overlook
+היום בחרנו מסלול קצת ארוך יותר. הלכנו במסלול הכולל את הGrand Prismatic overlook וממשיך עד ל Fairy Falls. (פחות או יותר נאמן למסלול [הזה](https://www.alltrails.com/explore/recording/grand-prismatic-overlook-and-fairy-falls-8452a95?u=m)). כשיצאנו לדרך היה קפוא בחוץ, הבטחנו לילדים שכשיחזרו לקראוון הם יהיו ״עם הלשון בחוץ״ - ואכן כך היה. הילדים הלכו 10 ק״מ בקצב של מטיילים מקצוענים. המסלול עובר בGrand Prismatic Overlook - תצפית על הבריכה הגאותרמית הצבעונית המפורסמת ביותר בילוסטון. את צבעיה המרהיבים מקבלת הבריכה ממרבדים מיקרוביאליים בטמפרטורות והרכבי חומר שונים שלא אפרט גם כי אני לא בטוח שהבנתי עד הסוף - וגם כי אתם יכולים לקרוא על זה בעצמכם...
+
+![](IMG_7434.JPG "Grand Prismatic Spring - כפי שנראית מה Grand Prismatic Overlook")
 
 ![](IMG_7429-HEIC.jpg "מתחממים לקראת היציאה בבוקר הקר")
 
-![](IMG_9864 Copy.JPG "")
+![](IMG_9864.JPG "")
 
 ![](IMG_7449-HEIC.jpg "השביל לכיוון Grand Prismatic Overlook")
 
 מהתצפית המשכנו  לטפס ״למפלי הפיות״. לפתע המפלים נגלו לעינינו עם בריכת השכשוך המזמינה שלהם. התישבנו לשכשך ולנשנש. בינתיים השמש יצאה והתחילו להגיע לבריכה עוד מטיילים. חזרנו באותה הדרך כאשר הטמפרטורות החלו לעלות והגענו חזרה לוהטים כפי שחזינו. בדרך חזרה הצלחנו אפילו לראות חיה חדשה בטבע, לרשימה של פיט! אמנם לא דב, אבל ״אייל פרדי״ חמוד. 
 
-![](IMG_7515 Copy.JPG "")
-
+![](IMG_7515.JPG "")
 ![](IMG_7484-HEIC.jpg "משכשכים רגליים ורומסים קצת פיות")
 
-![](IMG_7462 Copy.JPG "הפייה שלי")
-
-![](IMG_7452-HEIC.jpg "")
-
-![](IMG_7508-HEIC.jpg "")
-
+![](IMG_7462.JPG "הפייה שלי")  
+![](IMG_7452-HEIC.jpg "")  
+![](IMG_7508-HEIC.jpg "")  
 ![](IMG_9901-HEIC.jpg "אייל פרדי שמנמן ועסיסי")
 
-<a href="https://blogger.googleusercontent.com/img/a/AVvXsEhRRKPDs1uPbA6V2g2reTW3rIGJOat4vM5GCJMr4EVc2u-USK9slqxJn01wn-nH4weKI1EnZtpYJTnYsRo3-rMtUCPCrL5Zkm2CYAQU6XBakthfkca3EoNOx7Ptl9r_iatUC1cvu8t_nvdQb98M1UEPhBl0fbJm1ZAkjo9CASaWsDEJQHNe2hLdRBjVFg" style="margin-left: 1em; margin-right: 1em;"><img data-original-height="1024" data-original-width="512" height="640" src="https://blogger.googleusercontent.com/img/a/AVvXsEhRRKPDs1uPbA6V2g2reTW3rIGJOat4vM5GCJMr4EVc2u-USK9slqxJn01wn-nH4weKI1EnZtpYJTnYsRo3-rMtUCPCrL5Zkm2CYAQU6XBakthfkca3EoNOx7Ptl9r_iatUC1cvu8t_nvdQb98M1UEPhBl0fbJm1ZAkjo9CASaWsDEJQHNe2hLdRBjVFg=w320-h640" width="320"/></a>
+![](sts.jpeg "סטטיסטיקת מסלול - ילדים אלופים")
 
-סטטיסטיקת מסלול - ילדים אלופים
 
 ![](IMG_7586-HEIC.jpg "")
 
@@ -67,11 +64,14 @@ cover:
 
 ![](IMG_7652-HEIC.jpg "")
 
-בעיירה West Yellowstone ביקרנו ב<a href="https://goo.gl/maps/XKL79nUHdVeMb3Ph6" style="text-decoration-line: none;"><span data-rich-links="{&#34;fple-t&#34;:&#34;Grizzly &amp; Wolf Discovery Center&#34;,&#34;fple-u&#34;:&#34;https://goo.gl/maps/XKL79nUHdVeMb3Ph6&#34;,&#34;fple-mt&#34;:null,&#34;type&#34;:&#34;first-party-link&#34;}" style="color: #1155cc; font-family: Arial; font-size: 11pt; font-variant-east-asian: normal; font-variant-numeric: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;">Grizzly &amp; Wolf Discovery Center</span></a>. הארגון ללא מטרות רווח, לקח על עצמו להציל כל מיני חיות שאף אחד לא יכל לטפל בהן, לאפשר לציבור להכיר את הטבע ולהעלות את המודעות לשמירה על בעלי החיים. על כל חיה התהדרה בשלט עם שמה המגולל את סיפורה. ממש כמו יוגי דב שחיפשנו, שני דובי גריזלי במקום, ״התרגלו״ להכנס לבתים באחת העיירות ולגנוב אוכל מבתים. כאשר כל הנסיונות לגמול אותם מההרגל נכשלו, תכננו להרוג אותם, אך הארגון לקח על עצמו לטפל בהם. עייט קרח אחד למשל, נפצע בעודו גוזל, ולמרות ששוקם על ידי השמורה, גדל בתנאים שלא התפתחו אצלו יכולות הצייד - ונטען שהוא מזהה עצמו כשייך למין בני האדם. את ההצגה אבל, גנבו הלוטרות. באיזור נפרד משוטטות לוטרות במעיין פארק מים שבנו להן ואפשר לצפות בהן צוללות ורצות. למרות גודלו הקטן, המקום שובה לב והסיפורים של החיות מרתקים - בהחלט ממליץ על ביקור קצר במקום.
+בעיירה West Yellowstone ביקרנו ב[Grizzly &amp; Wolf Discovery Center](https://goo.gl/maps/XKL79nUHdVeMb3Ph6). הארגון ללא מטרות רווח, לקח על עצמו להציל כל מיני חיות שאף אחד לא יכל לטפל בהן, לאפשר לציבור להכיר את הטבע ולהעלות את המודעות לשמירה על בעלי החיים. על כל חיה התהדרה בשלט עם שמה המגולל את סיפורה. ממש כמו יוגי דב שחיפשנו, שני דובי גריזלי במקום, ״התרגלו״ להכנס לבתים באחת העיירות ולגנוב אוכל מבתים. כאשר כל הנסיונות לגמול אותם מההרגל נכשלו, תכננו להרוג אותם, אך הארגון לקח על עצמו לטפל בהם. עייט קרח אחד למשל, נפצע בעודו גוזל, ולמרות ששוקם על ידי השמורה, גדל בתנאים שלא התפתחו אצלו יכולות הצייד - ונטען שהוא מזהה עצמו כשייך למין בני האדם. את ההצגה אבל, גנבו הלוטרות. באיזור נפרד משוטטות לוטרות במעיין פארק מים שבנו להן ואפשר לצפות בהן צוללות ורצות. למרות גודלו הקטן, המקום שובה לב והסיפורים של החיות מרתקים - בהחלט ממליץ על ביקור קצר במקום.
 
 ![](IMG_7633-HEIC.jpg "יוגי דב מחפש סל פיקניק")
 
-![]( "")עשה זאת כך...
+
+![](bear.gif "עשה זאת כך...")
+
+
 
 ![](IMG_7640-HEIC.jpg "")
 

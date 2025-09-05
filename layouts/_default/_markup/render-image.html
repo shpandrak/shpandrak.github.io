@@ -29,6 +29,10 @@ Hugo's ".Resize" function automatically handles the EXIF rotation.
 <figure class="render-hook-figure">
     {{- if $original -}}
     <img src="{{ $original.Permalink }}" alt="{{ .Text }}">
+    {{ if .Title }}
+    <figcaption>{{ .Title | markdownify }}</figcaption>
+    {{ end }}
+
     {{- else -}}
 
     <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
