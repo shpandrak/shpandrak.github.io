@@ -3,7 +3,7 @@ title: "ג׳אספר - נפרדים מהרי הרוקי"
 date: 2025-08-08T20:00:00Z
 tags: ["Canada","Jasper"]
 author: "Shpandrak"
-weight: 12
+#weight: 12
 cover:
   image: "maligne6.jpg"
   hiddenInSingle: true

@@ -3,7 +3,7 @@ title: "ג׳אספר חלק ג׳"
 date: 2025-08-08T20:00:00Z
 tags: ["Canada","Jasper"]
 author: "Shpandrak"
-weight: 11
+#weight: 11
 cover:
   image: "athabascaFalls1.jpg"
   hiddenInSingle: true

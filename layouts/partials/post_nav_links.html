@@ -1,15 +1,17 @@
 {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
 {{- if and (gt (len $pages) 1) (in $pages . ) }}
+
+{{- $sorted_pages := $pages.ByDate }}
+
 <nav class="paginav">
-  {{- with $pages.Next . }}
+  {{- with $sorted_pages.Next . }}
   <a class="prev" href="{{ .Permalink }}">
-    <span class="title">« {{ i18n "prev_page" }}bongo></span>
-    <b>bongo</b>
+    <span class="title">« {{ i18n "prev_page" }}</span>
     <br>
     <span>{{- .Name -}}</span>
   </a>
   {{- end }}
-  {{- with $pages.Prev . }}
+  {{- with $sorted_pages.Prev . }}
   <a class="next" href="{{ .Permalink }}">
     <span class="title">{{ i18n "next_page" }} »</span>
     <br>

@@ -3,7 +3,7 @@ title: "ויקטוריה"
 date: 2025-08-15T20:00:00Z
 tags: ["Canada"]
 author: "Shpandrak"
-weight: 14
+#weight: 14
 cover:
   image: "whales2.jpg"
   hiddenInSingle: true

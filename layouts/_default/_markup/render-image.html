@@ -1,6 +1,6 @@
 {{ $original := .Page.Resources.GetMatch .Destination }}
 
-{{ if $original }}
+{{ if and $original (ne (path.Ext .Destination) ".gif") }}
 {{/*
 Resize ALL images to a consistent maximum width of 800px.
 This is the standard for creating a clean, column-like layout.

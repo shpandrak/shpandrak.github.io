@@ -3,7 +3,7 @@ title: "נוסעים דרומה"
 date: 2025-08-08T20:00:00Z
 tags: ["Canada"]
 author: "Shpandrak"
-weight: 13
+#weight: 13
 cover:
   image: "camp6.jpg"
   hiddenInSingle: true

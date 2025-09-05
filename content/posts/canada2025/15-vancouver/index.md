@@ -3,7 +3,7 @@ title: "ונקובר"
 date: 2025-08-19T20:00:00Z
 tags: ["Canada"]
 author: "Shpandrak"
-weight: 15
+#weight: 15
 cover:
   image: "krause6.jpg"
   hiddenInSingle: true
