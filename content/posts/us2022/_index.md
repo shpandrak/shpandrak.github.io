@@ -1,7 +1,7 @@
 ---
 title: "ארה״ב 2022"
 date: 2022-07-26T05:34:00Z
-tags: ["Canada"]
+tags: ["USA"]
 author: "Shpandrak"
 type: "series"
 cascade:
