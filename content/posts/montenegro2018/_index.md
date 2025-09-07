@@ -1,7 +1,7 @@
 ---
-title: "צ׳כיה 2019"
-date: 2019-08-23T05:34:00Z
-tags: ["Czechia"]
+title: "מונטנגרו 2018"
+date: 2018-08-20T05:34:00Z
+tags: ["Sicily"]
 author: "Shpandrak"
 type: "series"
 cascade:
@@ -9,7 +9,7 @@ cascade:
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowShareButtons: true
-    series: ["cz2019"]
+    series: ["montenegro2018"]
     build:
       publishResources: false
 
