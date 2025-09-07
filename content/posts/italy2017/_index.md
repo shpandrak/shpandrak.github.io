@@ -1,7 +1,7 @@
 ---
-title: "מונטנגרו 2018"
-date: 2018-08-20T05:34:00Z
-tags: ["מונטנגרו"]
+title: "איטליה 2017"
+date: 2017-08-21T05:34:00Z
+tags: ["איטליה"]
 author: "Shpandrak"
 type: "series"
 cascade:
@@ -9,7 +9,7 @@ cascade:
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowShareButtons: true
-    series: ["montenegro2018"]
+    series: ["italy2017"]
     build:
       publishResources: false
 
