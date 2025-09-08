@@ -3,6 +3,7 @@ title: "שמש ים וחופים זהובים - אייבל טאזמן"
 date: 2012-01-17 04:01:00 +0000 UTC
 updated: 2012-07-25T16:50:57.506Z
 author: "Shpandrak"
+draft: true
 cover:
     image: "cover.jpg"
     responsiveImages: true
