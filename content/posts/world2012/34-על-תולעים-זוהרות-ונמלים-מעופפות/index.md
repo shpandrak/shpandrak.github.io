@@ -36,7 +36,6 @@ cover:
 
 ![](AVvXsEi7akiqKSmsgcRbITj81j0WnEXuALAfho3ccUzGwSo5KRAFSs_7Fj3w_sBnLlKOAOEvH4BcPuMES0gQ7iys9XPTYN8V1asyYZUvlFpLOBDbURkfGGy3EPB9E0Dr2VpzfcT1oF1Glc2tA1dQ.jpg "יש נמלה באויר!")
 ![](AVvXsEh5b2kJWxq_jl2Dyzsb3RBMops0ohRVCc8s69zkW-fg3rDa2CvSuQbW8X2VQ6NGM3HjJsKq-N74xYEvMO1EGtGyOYaqPFQSAojcMUe6Yvjc609L_Hvk7BLeGaMexnNAO7TBY4uka5WYhCi1.jpg "ובתוך המים :)")
-![](Photo-Feb-7,-2012-2:12-PM.jpg)
 
 ![](Photo-Feb-7,-2012-2:12-PM.jpg "ועכשיו תורי")
 אין ספק שהחוויה היתה ייחודית ומהנה - אנחנו ממליצים לא לפספס את הרפטינג לכל מי שמתקרב לניו זילנד. המערות המעוצבות בצורות אותן יצרה זרימת המים כאילו עוצבו במיוחד בשבילנו, והמדריכים היו מקצועיים ומשעשעים. בחלקים הצרים של המערה המדריכים צעקו ״eel up״ - או בעברית - התצלפחו - ואנחנו כמו בתרגול היבש התעצבנו בצורת צלופח ארוך וחלקלק.
