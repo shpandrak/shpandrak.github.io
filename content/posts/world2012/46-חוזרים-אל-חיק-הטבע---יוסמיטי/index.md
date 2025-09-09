@@ -3,6 +3,7 @@ title: "חוזרים אל חיק הטבע - יוסמיטי"
 date: 2012-04-01 01:22:00 +0000 UTC
 updated: 2012-04-07T21:01:41.475Z
 author: "Shpandrak"
+draft: true
 cover:
   image: img006.jpg
   responsiveImages: true
