@@ -3,7 +3,7 @@ title: "אתנחתת טה אנאו"
 date: 2011-12-15 04:29:00 +0000 UTC
 updated: 2011-12-24T02:38:16.087Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: AVvXsEjxi2qxCT2GKGjvWolP7iGuFUMBpkfgMMF5VDleoP4o_VZXa2nFNWQx5WScFjLGhgBW0M2ZwvRiFo7LILdH23DETGJM9Zd3V0GilYSo3DWlbmDSBVCWl1gW4gTGhSo-uQExjhhTKLL8zfFn.jpg
     responsiveImages: true

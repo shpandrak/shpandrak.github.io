@@ -3,7 +3,7 @@ title: "חמוץ בסן פרנסיסקו על המים"
 date: 2012-03-29 00:40:00 +0000 UTC
 updated: 2019-05-21T18:17:48.780Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: img001.jpg
     responsiveImages: true

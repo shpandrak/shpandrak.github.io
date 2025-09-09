@@ -3,7 +3,7 @@ title: "אוקלנד - סוף פרק ניו זילנד"
 date: 2012-02-22 08:16:00 +0000 UTC
 updated: 2012-02-26T11:18:56.468Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: cover.jpg
     responsiveImages: true

@@ -3,7 +3,7 @@ title: "על לינה עם תנינים וביקור בבית חולים"
 date: 2012-03-02 07:49:00 +0000 UTC
 updated: 2012-03-11T12:35:04.615Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: img003.jpg
     responsiveImages: true

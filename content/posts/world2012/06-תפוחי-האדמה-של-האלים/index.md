@@ -3,7 +3,7 @@ title: "תפוחי האדמה של האלים"
 date: 2011-12-01 19:34:00.001 +0000 UTC
 updated: 2011-12-11T23:10:32.272Z
 author: "Shpandrak"
-draft: true
+
 cover:
   image: "blogger-image-816593867.jpg"
   responsiveImages: true

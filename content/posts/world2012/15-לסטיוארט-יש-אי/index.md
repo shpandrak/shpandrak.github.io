@@ -3,7 +3,7 @@ title: "לסטיוארט יש אי"
 date: 2011-12-28 06:38:00.001 +0000 UTC
 updated: 2011-12-28T07:14:12.033Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: AVvXsEhPAoBGGyc3Gs89dT5T9iUdzBZpjy8gnwbjz6EFaGm0tqEC8M9my17X3imFpWJ6LTqot-s0vyQs0RB9qo_0F4Fn0cv0WZKcEf93Eb4YFQoTTTxtirDa0HaDpQ0cyDxXOHgPg70lviMuqJfv.jpg
     responsiveImages: true

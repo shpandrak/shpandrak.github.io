@@ -3,7 +3,7 @@ title: "ליבי בדרום ואנוכי בקצה האי הצפוני"
 date: 2012-01-25 02:29:00 +0000 UTC
 updated: 2012-01-30T10:31:42.029Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: "cover.jpg"
     responsiveImages: true

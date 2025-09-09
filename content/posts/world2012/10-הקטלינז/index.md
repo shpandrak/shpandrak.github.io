@@ -3,7 +3,7 @@ title: "הקטלינז"
 date: 2011-12-06 02:14:00 +0000 UTC
 updated: 2011-12-11T23:33:55.951Z
 author: "Shpandrak"
-draft: true
+
 cover:
   image: "more2.jpg"
   hiddenInSingle: false

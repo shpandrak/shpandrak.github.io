@@ -3,7 +3,7 @@ title: "להתפלח לגן עדן - האי פרייזר"
 date: 2012-03-13 05:38:00 +0000 UTC
 updated: 2012-03-18T07:11:26.557Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: img016.jpg
     responsiveImages: true

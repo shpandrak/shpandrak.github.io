@@ -3,7 +3,7 @@ title: "הטוב הרע והמכוער - לאס וגאס"
 date: 2012-04-04 02:13:00 +0000 UTC
 updated: 2012-04-09T03:20:56.834Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: img004.jpg
     responsiveImages: true

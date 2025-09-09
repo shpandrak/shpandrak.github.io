@@ -3,7 +3,7 @@ title: "הדרך לפיורדלנד"
 date: 2011-12-07 10:04:00.001 +0000 UTC
 updated: 2011-12-11T23:37:50.687Z
 author: "Shpandrak"
-draft: true
+
 cover:
   image: "lk2.jpg"
   responsiveImages: true

@@ -3,7 +3,7 @@ title: "בעקבות אתונות הים"
 date: 2011-12-02 10:22:00.001 +0000 UTC
 updated: 2011-12-02T11:21:38.386Z
 author: "Shpandrak"
-draft: true
+
 cover:
   image: "blogger-image-1500967986.jpg"
   responsiveImages: true

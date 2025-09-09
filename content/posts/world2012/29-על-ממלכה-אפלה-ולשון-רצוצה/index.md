@@ -3,7 +3,7 @@ title: "על ממלכה אפלה ולשון רצוצה"
 date: 2012-01-28 21:35:00 +0000 UTC
 updated: 2012-02-05T07:41:56.527Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: "cover.jpg"
     responsiveImages: true

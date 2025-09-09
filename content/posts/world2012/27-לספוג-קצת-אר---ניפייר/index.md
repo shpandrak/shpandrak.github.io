@@ -3,7 +3,7 @@ title: "לספוג קצת אר - ניפייר"
 date: 2012-01-27 10:07:00 +0000 UTC
 updated: 2012-01-31T05:58:30.663Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: "cover.jpg"
     responsiveImages: true

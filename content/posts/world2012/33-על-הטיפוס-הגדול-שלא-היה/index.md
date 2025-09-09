@@ -3,7 +3,7 @@ title: "על הטיפוס הגדול שלא היה"
 date: 2012-02-06 02:31:00 +0000 UTC
 updated: 2012-02-17T02:52:23.197Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: cover.jpg
     responsiveImages: true

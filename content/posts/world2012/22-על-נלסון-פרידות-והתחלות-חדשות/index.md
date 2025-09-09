@@ -3,7 +3,7 @@ title: "על נלסון, פרידות והתחלות חדשות"
 date: 2012-01-15 03:24:00 +0000 UTC
 updated: 2012-07-25T15:23:48.847Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: cover.jpg
     responsiveImages: true

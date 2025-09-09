@@ -3,7 +3,7 @@ title: "קייקורה - לחיות כמו דולפין"
 date: 2012-01-24 10:23:00.001 +0000 UTC
 updated: 2012-01-26T05:10:14.390Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: "cover.jpg"
     responsiveImages: true

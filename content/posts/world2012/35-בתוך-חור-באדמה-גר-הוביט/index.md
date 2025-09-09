@@ -3,7 +3,7 @@ title: "בתוך חור באדמה גר הוביט"
 date: 2012-02-09 08:44:00 +0000 UTC
 updated: 2012-02-21T21:39:42.629Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: lotr5.jpg
     responsiveImages: true

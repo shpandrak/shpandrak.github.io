@@ -3,7 +3,7 @@ title: "עיר רפאים"
 date: 2011-11-27 06:33:00 +0000 UTC
 updated: 2011-12-01T20:02:17.094Z
 author: "Shpandrak"
-draft: true
+
 cover:
   image: "blogger-image--2075903062.jpg"
   responsiveImages: true

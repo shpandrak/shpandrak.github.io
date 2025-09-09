@@ -3,7 +3,7 @@ title: "וואנקה"
 date: 2011-12-29 18:18:00 +0000 UTC
 updated: 2012-01-03T10:48:15.503Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: movie.jpg
     responsiveImages: true

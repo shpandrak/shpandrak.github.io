@@ -3,7 +3,7 @@ title: "מסביב לעולם עם הנמלה"
 date: 2012-05-05T05:34:00Z
 author: "Shpandrak"
 type: "series"
-draft: true
+
 cascade:
   params:
     ShowPostNavLinks: true

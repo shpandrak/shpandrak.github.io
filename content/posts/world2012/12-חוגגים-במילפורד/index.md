@@ -3,7 +3,7 @@ title: "חוגגים במילפורד"
 date: 2011-12-14 01:35:00.001 +0000 UTC
 updated: 2011-12-14T23:30:02.971Z
 author: "Shpandrak"
-draft: true
+
 cover:
   image: "m17.jpg"
   responsiveImages: true
@@ -92,7 +92,7 @@ cover:
 ![](m29.jpg)
 
 
-לכל דבר טוב יש סוף - עמדנו במשימה וסיימנו את הטרק. זה הטרק הראשון שלנו פה - ולא ממש הספקנו להכנס ל"כושר טרקים" מה שעלה לנו בלא מעט שרירים תפוסים על אף כמות המתיחות שהקפדנו לעשות בסוף כל יום[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaNMtibv9ViHlLKMKKqHEcrKGeU4EDRT0CyiWl-n4YGIh4OWKri4u8zrqGDPbPlG_GBBxnVEFcP36YrYJa_9EfrI-4h0dC4yGc5-eFZazWjKhMPoS-Nk4qzlxM9n-JG0N6Zp75c5II61Jz/s640/blogger-image--688786913.jpg)
+לכל דבר טוב יש סוף - עמדנו במשימה וסיימנו את הטרק. זה הטרק הראשון שלנו פה - ולא ממש הספקנו להכנס ל"כושר טרקים" מה שעלה לנו בלא מעט שרירים תפוסים על אף כמות המתיחות שהקפדנו לעשות בסוף כל יום
 
 [](m30.jpg)
 ![](m31.jpg)

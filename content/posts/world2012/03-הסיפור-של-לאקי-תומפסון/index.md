@@ -3,7 +3,7 @@ title: "הסיפור של לאקי תומפסון"
 date: 2011-11-28 09:48:00 +0000 UTC
 updated: 2011-12-02T05:27:27.150Z
 author: "Shpandrak"
-draft: true
+
 cover:
   image: "blogger-image-1749512879.jpg"
   responsiveImages: true

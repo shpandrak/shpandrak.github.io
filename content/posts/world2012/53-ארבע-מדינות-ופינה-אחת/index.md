@@ -3,7 +3,7 @@ title: "ארבע מדינות ופינה אחת"
 date: 2012-04-15 02:30:00 +0000 UTC
 updated: 2012-04-29T02:36:51.722Z
 author: "Shpandrak"
-draft: true
+
 cover:
   image: img9.jpg
   responsiveImages: true

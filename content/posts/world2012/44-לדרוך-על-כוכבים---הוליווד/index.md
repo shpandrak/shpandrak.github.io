@@ -3,7 +3,7 @@ title: "לדרוך על כוכבים - הוליווד"
 date: 2012-03-25 16:46:00 +0000 UTC
 updated: 2012-04-01T23:34:03.694Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: img024.jpg
     responsiveImages: true

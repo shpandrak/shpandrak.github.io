@@ -3,7 +3,7 @@ title: "פרוייקט ״נופש מהחופש״ ואגמים בכל מיני צ
 date: 2012-01-03 21:17:00 +0000 UTC
 updated: 2012-01-12T04:11:05.411Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: "cover.jpg"
     responsiveImages: true

@@ -3,7 +3,7 @@ title: "אומרו"
 date: 2011-11-30 11:57:00 +0000 UTC
 updated: 2011-12-02T11:23:30.426Z
 author: "Shpandrak"
-draft: true
+
 cover:
   image: "blogger-image--898833035.jpg"
   responsiveImages: true

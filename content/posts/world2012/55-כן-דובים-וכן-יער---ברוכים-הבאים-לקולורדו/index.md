@@ -3,7 +3,7 @@ title: "כן דובים וכן יער - ברוכים הבאים לקולורדו
 date: 2012-04-21 20:34:00 +0000 UTC
 updated: 2012-05-12T20:56:09.021Z
 author: "Shpandrak"
-draft: true
+
 cover:
   image: img7.jpg
   responsiveImages: true

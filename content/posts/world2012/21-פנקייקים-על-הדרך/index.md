@@ -3,7 +3,7 @@ title: "פנקייקים על הדרך"
 date: 2012-01-10 22:28:00 +0000 UTC
 updated: 2012-01-19T02:35:55.275Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: "pnk2.jpg"
     responsiveImages: true

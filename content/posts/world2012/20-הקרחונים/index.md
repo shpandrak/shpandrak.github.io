@@ -3,7 +3,7 @@ title: "הקרחונים"
 date: 2012-01-10 05:01:00 +0000 UTC
 updated: 2012-01-19T02:42:32.965Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: "cover.jpg"
     responsiveImages: true

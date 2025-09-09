@@ -3,7 +3,7 @@ title: "קוקיליו ההר המעשן"
 date: 2012-01-01 08:22:00 +0000 UTC
 updated: 2012-01-03T10:49:53.827Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: "cover.jpg"
     responsiveImages: true

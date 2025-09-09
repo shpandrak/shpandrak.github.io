@@ -3,7 +3,7 @@ title: "עבדים היינו ועוד נהיה"
 date: 2012-04-07 03:27:00 +0000 UTC
 updated: 2012-04-12T03:09:58.220Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: img006.jpg
     responsiveImages: true

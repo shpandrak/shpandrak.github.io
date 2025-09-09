@@ -3,7 +3,7 @@ title: "אוסטרליה, הנה אנחנו באים - סידני"
 date: 2012-02-28 07:31:00 +0000 UTC
 updated: 2012-03-02T09:35:46.531Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: img002.jpg
     responsiveImages: true

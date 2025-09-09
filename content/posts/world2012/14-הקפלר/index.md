@@ -3,7 +3,7 @@ title: "הקפלר"
 date: 2011-12-19 07:48:00 +0000 UTC
 updated: 2011-12-24T02:45:04.651Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: AVvXsEiByuiBmX3rgA2pMsCnmf_mMSNRtDbpsCmpD8AX5VTa9p-wTmHIwJm8vMk3sp7a1qUK29HACdrdxW11hGfLZyV2VTYrxsvBATf-wUAKAfnisbfS9FBc5NC8cVU8v78vu5fSlndpEBOWJx4N.jpg
     responsiveImages: true
@@ -65,13 +65,11 @@ cover:
 ![](AVvXsEi65NtZYbfDcRnXnh_CapfpoES4-4mSDGqY3V-KpdnsykztPgeBeojAJtrTv4ktVkEUaE-QbEJ7ZF_VUzsbiUDLaCnCFN6fzB9NieFSqjUu2XVNx7jHeQP99GYGCpnJl8_XrTaIzQFAHmXq.jpg "לא לשכוח מתיחות נמלולי")
 ביום השלישי והאחרון של הטרק הזה נשאר לנו ללכת 22 קילומטר ביער עד אגם מנאפורי ומשם ההסעה חזרה לטה אנאו. הלכנו מהר ועל אף הקילומטרז׳ הקדמנו בשעתיים והספקנו לאוטובוס המוקדם.
 
-![](AVvXsEiPC3oaS-YW0D4cd3PBBnhH00MNjH6SmfgUaTGs_PZrpklxnA_Nm2OBnYaNvdWQ3Q5_aloYNg2U3PkERZiwsDkyTg-KDbbB37zxPckpuaeoXZX8tyLEcJODwkMOj51AFqeU5DYd6KZd128T.jpg)
-
- *נפרדים מאגם מנאפורי ומהטרק היפה הזה*
+![](AVvXsEiPC3oaS-YW0D4cd3PBBnhH00MNjH6SmfgUaTGs_PZrpklxnA_Nm2OBnYaNvdWQ3Q5_aloYNg2U3PkERZiwsDkyTg-KDbbB37zxPckpuaeoXZX8tyLEcJODwkMOj51AFqeU5DYd6KZd128T.jpg "נפרדים מאגם מנאפורי ומהטרק היפה הזה")
 
 ![](AVvXsEhtzs0cAGM2-Xdt9SIMsoU7SGFCPqD9OiCWpKy_2GzGtLCF3FWPx7InaF_hNzZAlHsyB5GuUoCwRpqXQiGxv6Pl9V_T8I_QcIrqFpv0Yo861hCWIIGqf5ovvWt1Qlu66sTZkwqStKPvluNG.jpg)
 
- בערב עוד הספקנו לזלול את ״ארוחת הפיצוי״ של אחרי הטרק.  ביחד עם צאלה ועודד נכנסנו אקראית למסעדה הראשונה שמצאנו. לא ברור אם היה זה הרעב, אוכל הטרקים או כמות הבירה ששתינו שם (Speight's old dark המעולה) - אבל ארבעתנו יכולנו להשבע שהוגשו לנו המבורגרים קסומים שאינם מהעולם הזה :) שם המסעדה הוא משהו כמו ״בייליז״ ממליץ על ה ״לקסמור דלקס״
+בערב עוד הספקנו לזלול את ״ארוחת הפיצוי״ של אחרי הטרק.  ביחד עם צאלה ועודד נכנסנו אקראית למסעדה הראשונה שמצאנו. לא ברור אם היה זה הרעב, אוכל הטרקים או כמות הבירה ששתינו שם (Speight's old dark המעולה) - אבל ארבעתנו יכולנו להשבע שהוגשו לנו המבורגרים קסומים שאינם מהעולם הזה :) שם המסעדה הוא משהו כמו ״בייליז״ ממליץ על ה ״לקסמור דלקס״
 
 ![](AVvXsEitgabbi4MI4vN_UZPCP0sPCpwP9keeqJC5ijB6rLKlislyGMojC-ImSEs9fOWQHYtKIEoAKwXlqjiNdVtqYXf-kTGuN8ccOP1RuIABC6iVlGhZfEeb_t59dcn6RJb2O6GM7yo3XsxcUFw8.jpg)
 

@@ -3,7 +3,7 @@ title: "דאנידין"
 date: 2011-12-03 01:54:00 +0000 UTC
 updated: 2011-12-11T23:26:30.453Z
 author: "Shpandrak"
-draft: true
+
 cover:
   image: "blogger-image-1440805870.jpg"
   responsiveImages: true

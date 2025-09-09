@@ -3,7 +3,7 @@ title: "על מורמונים, קשתות ועששת"
 date: 2012-04-18 13:10:00 +0000 UTC
 updated: 2012-05-08T13:27:08.307Z
 author: "Shpandrak"
-draft: true
+
 cover:
   image: img10.jpg
   responsiveImages: true

@@ -3,7 +3,7 @@ title: "על היפים, חופים ומה שבינהם"
 date: 2012-03-08 12:32:00 +0000 UTC
 updated: 2012-03-14T01:21:26.745Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: img011.jpg
     responsiveImages: true

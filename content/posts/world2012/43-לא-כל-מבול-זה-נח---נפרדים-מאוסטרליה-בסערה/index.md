@@ -3,7 +3,7 @@ title: "לא כל מבול זה נח - נפרדים מאוסטרליה בסער�
 date: 2012-03-21 11:37:00 +0000 UTC
 updated: 2012-03-22T01:17:41.885Z
 author: "Shpandrak"
-draft: true
+
 cover:
   image: img012.jpg
   responsiveImages: true

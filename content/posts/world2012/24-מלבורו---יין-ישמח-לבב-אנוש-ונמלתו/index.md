@@ -3,7 +3,7 @@ title: "מלבורו - יין ישמח לבב אנוש ונמלתו"
 date: 2012-01-19 01:52:00 +0000 UTC
 updated: 2012-01-23T07:05:17.071Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: "cover.jpg"
     responsiveImages: true

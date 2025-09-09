@@ -3,7 +3,7 @@ title: "רוטורואה - עיר הביצה הסרוחה"
 date: 2012-02-01 01:19:00 +0000 UTC
 updated: 2012-07-25T20:43:47.663Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: cover.jpg
     responsiveImages: true

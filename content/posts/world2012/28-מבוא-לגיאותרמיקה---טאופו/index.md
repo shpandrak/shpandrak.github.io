@@ -3,7 +3,7 @@ title: "מבוא לגיאותרמיקה - טאופו"
 date: 2012-01-28 05:09:00 +0000 UTC
 updated: 2012-02-04T05:44:58.811Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: "cover.jpg"
     responsiveImages: true

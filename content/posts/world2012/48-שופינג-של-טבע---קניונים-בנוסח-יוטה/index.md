@@ -3,7 +3,7 @@ title: "שופינג של טבע - קניונים בנוסח יוטה"
 date: 2012-04-05 19:22:00 +0000 UTC
 updated: 2012-04-10T23:52:02.938Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: img23.jpg
     responsiveImages: true

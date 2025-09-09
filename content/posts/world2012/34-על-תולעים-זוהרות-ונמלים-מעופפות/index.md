@@ -3,7 +3,7 @@ title: "על תולעים זוהרות ונמלים מעופפות"
 date: 2012-02-08 05:00:00 +0000 UTC
 updated: 2012-02-17T08:56:43.982Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: cover.jpg
     responsiveImages: true

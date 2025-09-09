@@ -3,7 +3,7 @@ title: "על פיצוח הנאצ׳וס וביקוע האטום - ניו מקסי
 date: 2012-04-13 02:42:00 +0000 UTC
 updated: 2012-04-29T02:38:02.627Z
 author: "Shpandrak"
-draft: true
+
 cover:
   image: img001.jpg
   responsiveImages: true

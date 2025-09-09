@@ -3,7 +3,7 @@ title: "על העיר של המלכה והאודיסאה של הנמלה"
 date: 2011-12-28 20:17:00 +0000 UTC
 updated: 2012-01-02T07:54:53.354Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: cart.jpg
     responsiveImages: true

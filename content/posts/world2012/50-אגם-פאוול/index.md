@@ -3,7 +3,7 @@ title: "אגם פאוול"
 date: 2012-04-10 03:47:00 +0000 UTC
 updated: 2012-04-17T02:36:27.593Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: img009.jpg
     responsiveImages: true

@@ -3,7 +3,7 @@ title: "ביקור בחצי האי בנקס"
 date: 2011-11-29 11:29:00 +0000 UTC
 updated: 2011-12-01T20:09:10.840Z
 author: "Shpandrak"
-draft: true
+
 cover:
   image: "more1.jpg"
   responsiveImages: true

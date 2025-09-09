@@ -3,7 +3,7 @@ title: "לוע הר געש בלב ים - האי הלבן"
 date: 2012-02-03 09:14:00.001 +0000 UTC
 updated: 2012-07-25T20:41:29.790Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: cover.jpg
     responsiveImages: true

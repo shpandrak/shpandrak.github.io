@@ -3,7 +3,7 @@ title: "החור הגדול - על הגראנד קניון והאיזור"
 date: 2012-04-11 23:39:00 +0000 UTC
 updated: 2012-04-19T23:16:53.628Z
 author: "Shpandrak"
-draft: true
+
 cover:
   image: img001.jpg
   responsiveImages: true

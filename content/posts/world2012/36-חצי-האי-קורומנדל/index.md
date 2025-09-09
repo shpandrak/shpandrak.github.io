@@ -3,7 +3,7 @@ title: "חצי האי קורומנדל"
 date: 2012-02-17 03:53:00 +0000 UTC
 updated: 2012-02-24T10:32:08.770Z
 author: "Shpandrak"
-draft: true
+
 cover:
     image: cover.jpg
     responsiveImages: true
