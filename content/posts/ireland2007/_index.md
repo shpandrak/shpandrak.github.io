@@ -1,6 +1,6 @@
 ---
-title: "ספרד 2008"
-date: 2007-10-10:34:00Z
+title: "אירלנד 2007"
+date: 2007-10-10T05:34:00Z
 tags: ["אירלנד"]
 author: "Shpandrak"
 type: "series"
