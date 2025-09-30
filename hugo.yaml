@@ -11,9 +11,18 @@ markup:
     renderer:
       unsafe: true
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
 # Add these lines to enable comments globally
 params:
   comments: true
+  ShowShareButtons: true
+  ShareButtons: [ "whatsapp", "facebook", "x", "telegram" ]
+
   assets:
     favicon: favicon.svg
 
@@ -35,3 +44,6 @@ menu:
     - identifier: trips
       name: טיולים
       url: /posts/
+    - identifier: search
+      name: חיפוש
+      url: /search

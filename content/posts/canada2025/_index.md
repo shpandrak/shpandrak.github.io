@@ -8,7 +8,6 @@ cascade:
   params:
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
-    ShowShareButtons: true
     series: ["Canada2025"]
     build:
       publishResources: false

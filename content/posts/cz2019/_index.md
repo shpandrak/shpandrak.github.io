@@ -8,7 +8,6 @@ cascade:
   params:
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
-    ShowShareButtons: true
     series: ["cz2019"]
     build:
       publishResources: false

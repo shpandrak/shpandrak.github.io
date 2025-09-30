@@ -8,7 +8,6 @@ cascade:
   params:
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
-    ShowShareButtons: true
     series: ["montenegro2018"]
     build:
       publishResources: false

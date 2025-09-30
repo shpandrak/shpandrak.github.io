@@ -8,7 +8,6 @@ cascade:
   params:
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
-    ShowShareButtons: true
     series: ["ethiopia2010"]
     build:
       publishResources: false

@@ -8,7 +8,6 @@ cascade:
   params:
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
-    ShowShareButtons: true
     series: ["US2022"]
     build:
       publishResources: false
