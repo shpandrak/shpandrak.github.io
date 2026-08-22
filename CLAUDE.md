@@ -45,6 +45,14 @@ Chapter prev/next navigation is series-based via the overridden `layouts/partial
 
 `layouts/partials/templates/opengraph.html` overrides the theme's OpenGraph partial (og:image sizing fixes for link previews).
 
+### Preparing photos from the iPhone (HEIC batches in ~/Downloads)
+
+The user drops trip photos as HEIC into a Downloads folder. The established prep flow:
+
+1. Convert: `sips -s format jpeg -s formatOptions 85 <f>.HEIC --out <f>.jpg` (full resolution; HDR gain map is lost — expected, the web version is SDR). Delete HEICs only when asked.
+2. Fix rotation: `sips` keeps the EXIF orientation flag, which renders sideways/upside-down in parts of the pipeline. Bake it in with `magick mogrify -auto-orient` — but only for files where `identify -format '%[orientation]'` is not `TopLeft`/`Undefined`, to avoid needlessly re-encoding the rest.
+3. Rename sequentially by capture time (EXIF via `sips -g creation`), e.g. `bavaria-001.jpg` — interleaves multiple phones correctly. Leave videos and descriptively-named files alone.
+
 ## Comments ("shpan-comments")
 
 Comments are a self-hosted widget, not a theme feature:
