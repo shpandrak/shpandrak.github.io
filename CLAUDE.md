@@ -23,7 +23,11 @@ There are no tests or linters. Verification = build succeeds + visual check of t
 
 ## Deployment
 
-Pushing to **`main`** triggers `.github/workflows/hugo.yml`, which builds with Hugo (extended, latest) and deploys `public/` to GitHub Pages. Note: `origin/HEAD` points at `master`, but **`main` is the branch that actually publishes** — work and merge there. `public/` and `resources/_gen/` are gitignored build output; never edit them.
+Pushing to **`main`** triggers `.github/workflows/hugo.yml`, which builds with Hugo (extended, latest) and deploys `public/` to GitHub Pages. **`main` is the only branch that publishes** — it is the sole branch on `origin`, and `origin/HEAD` points at it. GitHub Pages is configured with `build_type: workflow`, so the site is served from the workflow's artifact rather than from any branch.
+
+The local `nostalgia-branch-ignore-it` branch (formerly `master`) holds the pre-Hugo shpandrak.com landing page — four files, no blog content, kept only for nostalgia. It is local-only and unrelated to deployment.
+
+**Always work on a feature branch and merge into `main` via a PR — never commit directly to `main`.** `public/` and `resources/_gen/` are gitignored build output; never edit them.
 
 ## Content structure
 
@@ -45,13 +49,40 @@ Chapter prev/next navigation is series-based via the overridden `layouts/partial
 
 `layouts/partials/templates/opengraph.html` overrides the theme's OpenGraph partial (og:image sizing fixes for link previews).
 
+### Preparing photos from the iPhone (HEIC batches in ~/Downloads)
+
+The user drops trip photos as HEIC into a Downloads folder. The established prep flow:
+
+1. Convert: `sips -s format jpeg -s formatOptions 85 <f>.HEIC --out <f>.jpg` (full resolution; HDR gain map is lost — expected, the web version is SDR). Delete HEICs only when asked.
+2. Fix rotation: `sips` keeps the EXIF orientation flag, which renders sideways/upside-down in parts of the pipeline. Bake it in with `magick mogrify -auto-orient` — but only for files where `identify -format '%[orientation]'` is not `TopLeft`/`Undefined`, to avoid needlessly re-encoding the rest.
+3. Rename sequentially by capture time (EXIF via `sips -g creation`), e.g. `bavaria-001.jpg` — interleaves multiple phones correctly. Leave videos and descriptively-named files alone.
+
 ## Comments ("shpan-comments")
 
 Comments are a self-hosted widget, not a theme feature:
 
 - `layouts/partials/comments.html` renders the `#comments-container` div pointing at the backend on Google Cloud Run (`https://shpan-comments-762084116292.me-west1.run.app`); `layouts/partials/extend_footer.html` loads its `widget.js`. Both files contain commented-out `localhost` variants for local development against a local backend.
-- Currently anonymous-only commenting.
-- `tools/comentario/` holds docker-compose/Dockerfile/deploy scripts for the comment server (Comentario-based). The `secrets*.yaml` files there are deployment config — don't commit new secrets or echo their contents.
+- Currently anonymous-only commenting. The backend code lives outside this repo, in `~/personal/shpan-comments`.
+
+### Moderating comments (temporary workaround)
+
+Every anonymous comment lands in `moderation` status and only `active` comments render. In-app
+approval is planned but not built yet (placeholder admin UI, stubbed `pending-review-comments`
+endpoint), so moderation is done by hand against Firestore with `tools/shpan-comments/moderate.sh`:
+
+```bash
+tools/shpan-comments/moderate.sh list                 # everything awaiting moderation
+tools/shpan-comments/moderate.sh approve <DOC_PATH>   # status -> active
+tools/shpan-comments/moderate.sh reject  <DOC_PATH>   # status -> rejected
+```
+
+Never approve or reject a comment without asking first — list them and let the user decide.
+**Delete this script and section once in-app approvals ship.**
+
+- `tools/comentario/` is **dead code** — leftovers (docker-compose/Dockerfile/deploy scripts) from the
+  Comentario-based comment server that shpan-comments replaced. Nothing on the site references it.
+  Its tracked `secrets.yaml` still holds a Postgres password for that decommissioned server — don't
+  commit new secrets or echo the contents of any `secrets*.yaml`.
 
 ## Adding a new trip
 
