@@ -19,6 +19,9 @@ outputs:
 
 # Add these lines to enable comments globally
 params:
+  # Must stay set: PaperMod's rss.xml falls back to the removed site.Author
+  # when params.author is absent, which breaks the build on Hugo >= 0.165.
+  author: "Shpandrak"
   comments: true
   ShowShareButtons: true
   ShareButtons: [ "whatsapp", "facebook", "x", "telegram" ]

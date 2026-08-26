@@ -50,10 +50,8 @@
     {{- $cover := (or $pageBundleCover $globalResourcesCover)}}
 
 
-  {{- if (ne .Params.cover.relative true) }}
-    <meta property="og:image" content="{{ ($cover.Resize ("480x")).Permalink }}">
-  {{- else}}
-    <meta property="og:image" content="{{ ($cover.Resize ("480x")).Permalink }}">
+  {{- with $cover }}
+    <meta property="og:image" content="{{ (.Resize ("480x")).Permalink }}">
   {{- end}}
 
 <!-- custom override end -->
