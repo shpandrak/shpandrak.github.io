@@ -23,7 +23,9 @@ There are no tests or linters. Verification = build succeeds + visual check of t
 
 ## Deployment
 
-Pushing to **`main`** triggers `.github/workflows/hugo.yml`, which builds with Hugo (extended, latest) and deploys `public/` to GitHub Pages. Note: `origin/HEAD` points at `master`, but **`main` is the branch that actually publishes**.
+Pushing to **`main`** triggers `.github/workflows/hugo.yml`, which builds with Hugo (extended, latest) and deploys `public/` to GitHub Pages. **`main` is the only branch that publishes** — it is the sole branch on `origin`, and `origin/HEAD` points at it. GitHub Pages is configured with `build_type: workflow`, so the site is served from the workflow's artifact rather than from any branch.
+
+The local `nostalgia-branch-ignore-it` branch (formerly `master`) holds the pre-Hugo shpandrak.com landing page — four files, no blog content, kept only for nostalgia. It is local-only and unrelated to deployment.
 
 **Always work on a feature branch and merge into `main` via a PR — never commit directly to `main`.** `public/` and `resources/_gen/` are gitignored build output; never edit them.
 
